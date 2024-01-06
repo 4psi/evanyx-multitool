@@ -1,0 +1,17 @@
+robloxpy
+requests
+wmi
+psutil
+browser_cookie3
+Path
+pathlib
+colorama
+tk
+pillow
+discord_webhook
+pystyle
+discord
+flask
+pytube
+aiohttp
+asyncio
